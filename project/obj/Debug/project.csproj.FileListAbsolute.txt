@@ -1,0 +1,7 @@
+c:\users\курмангалиевм\documents\visual studio 2017\Projects\project\project\obj\Debug\project.csprojResolveAssemblyReference.cache
+c:\users\курмангалиевм\documents\visual studio 2017\Projects\project\project\obj\Debug\PageChronology.baml
+c:\users\курмангалиевм\documents\visual studio 2017\Projects\project\project\obj\Debug\MainWindow.g.cs
+c:\users\курмангалиевм\documents\visual studio 2017\Projects\project\project\obj\Debug\PageChronology.g.cs
+c:\users\курмангалиевм\documents\visual studio 2017\Projects\project\project\obj\Debug\App.g.cs
+c:\users\курмангалиевм\documents\visual studio 2017\Projects\project\project\obj\Debug\project_MarkupCompile.cache
+c:\users\курмангалиевм\documents\visual studio 2017\Projects\project\project\obj\Debug\project_MarkupCompile.lref

@@ -1,0 +1,13 @@
+[0118/105107.440:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[0118/105122.562:WARNING:spdy_session.cc(2276)] Received HEADERS for invalid stream 343
+[0118/105125.712:WARNING:spdy_session.cc(2276)] Received HEADERS for invalid stream 421
+[0118/105130.989:WARNING:spdy_session.cc(2276)] Received HEADERS for invalid stream 687
+[0118/105130.996:WARNING:spdy_session.cc(2276)] Received HEADERS for invalid stream 673
+[0118/105145.097:ERROR:gles2_cmd_decoder.cc(9573)] [.Offscreen-For-WebGL-0000022AC33935A0]RENDER WARNING: there is no texture bound to the unit 0
+[0118/105145.098:ERROR:gles2_cmd_decoder.cc(9573)] [.Offscreen-For-WebGL-0000022AC33935A0]RENDER WARNING: there is no texture bound to the unit 0
+[0118/111650.911:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[0118/111712.467:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[0118/111904.796:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[0118/112842.954:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[0118/112916.973:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[0118/113418.367:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
